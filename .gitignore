@@ -16,3 +16,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+
+src/Sudoku copy.js
+
+src/Sudoku nonasync.js
